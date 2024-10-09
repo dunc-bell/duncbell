@@ -1,3 +1,2 @@
 # duncbell
-Repo for hosting my website
-This is a short descripton of the website.
+## Here is a sub-heading?
