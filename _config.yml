@@ -1,0 +1,12 @@
+# Site settings
+title: duncbell.com
+email: duncan@duncbell.com
+description: >- 
+  Some of my thoughts, profesional and personal.
+baseurl: "" # the subpath of your site (e.g. /blog or /site)
+url: "http://www.duncbell.com" # the base hostname & protocol for your site
+twitter_username: duncbell
+github_username:  dunc-bell
+
+# Theme settings
+theme: minima
