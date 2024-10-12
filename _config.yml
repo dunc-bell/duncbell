@@ -10,8 +10,4 @@ github_username:  dunc-bell
 # Theme settings
 theme: minima
 
-#Code to get goodreads to work
-kramdown:
-  parse_block_html: true
-  hard_wrap: false
-  input: GFM
+
