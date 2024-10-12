@@ -41,10 +41,10 @@ Lots of ex-UK government folks went and set up a digital department at coop so t
 * UX Collective: [https://uxdesign.cc/](https://urldefense.com/v3/__https:/uxdesign.cc/__%3B!!GNpmbAs!QolyZzPQU4itcTVq5iZCTu561vaon_FbQYEe3U3Op8ucRwCSgfYBTLnewGOs0Q$)  A group of UXers working together and blogging on medium.  
 * This is Service Design Doing methods: [https://www.thisisservicedesigndoing.com/methods](https://urldefense.com/v3/__https:/www.thisisservicedesigndoing.com/methods__%3B!!GNpmbAs!QolyZzPQU4itcTVq5iZCTu561vaon_FbQYEe3U3Op8ucRwCSgfYBTLl_lq3LAQ$)  A free online toolkit of service design methods, nicely arranged around the double diamond. 
 * InteractionDesign.org [https://www.interaction-design.org/literature](https://urldefense.com/v3/__https:/www.interaction-design.org/literature__%3B!!GNpmbAs!QolyZzPQU4itcTVq5iZCTu561vaon_FbQYEe3U3Op8ucRwCSgfYBTLmHmzYuRw$)  Some very detailed guides and shorter articles and blogs on interaction design and research. There is a very comprehensive book here that describes some of the theoretical elements to interaction design. 
-* What is Service Design [What is Service Design? | by Sarah Drummond | Bootcamp](https://bootcamp.uxdesign.cc/what-is-service-design-3c6ef5c4c331)
+* What is Service Design [What is Service Design? by Sarah Drummond; Bootcamp](https://bootcamp.uxdesign.cc/what-is-service-design-3c6ef5c4c331)
 * Definition of the Service Design role: [A space for Service design](https://cathydutton.co.uk/posts/a-space-for-service-design/)
-* Systemic Design Framework [Developing our new Systemic Design Framework | by Cat Drew | Design Council | Medium](https://medium.com/design-council/developing-our-new-systemic-design-framework-e0f74fe118f7)	
-* The limitations of User Centred Design [Camera Obscura: Beyond the lens of user-centered design | by Alexis Lloyd | Medium](https://alexis.medium.com/camera-obscura-beyond-the-lens-of-user-centered-design-631bb4f37594)
+* Systemic Design Framework [Developing our new Systemic Design Framework; by Cat Drew; Design Council; Medium](https://medium.com/design-council/developing-our-new-systemic-design-framework-e0f74fe118f7)	
+* The limitations of User Centred Design [Camera Obscura: Beyond the lens of user-centered design; by Alexis Lloyd; Medium](https://alexis.medium.com/camera-obscura-beyond-the-lens-of-user-centered-design-631bb4f37594)
 * Amy Everett https://sites.google.com/view/ux-resource-library/
 
 ### Methods
@@ -53,24 +53,24 @@ Lots of ex-UK government folks went and set up a digital department at coop so t
 * User Interviews research plan guide [How to Create a User Research Plan Template](https://www.userinterviews.com/ux-research-field-guide-chapter/create-user-research-plan)
 * Research Panels: Caroline Jarrett guidance on… https://www.effortmark.co.uk/seven-questions-about-user-research-panels/  (older blogppost ([7 Questions About User-Research Panels :: UXmatters](https://www.uxmatters.com/mt/archives/2017/06/7-questions-about-user-research-panels.php))
 * How to reshape projects - Kate Tarling: [YouTube](https://www.youtube.com/watch?v=LO1MUSwYXQc)
-* Incentive calculator in $ [The UX Research Incentive Calculator | User Interviews Copy](https://www.userinterviews.com/lp/ux-research-incentive-calculator?source=navbarIncentiveCalcResearcher)
+* Incentive calculator in $ [The UX Research Incentive Calculato; User Interviews Copy](https://www.userinterviews.com/lp/ux-research-incentive-calculator?source=navbarIncentiveCalcResearcher)
 
 #### Discover // Discovery I // Generate & Explore
 * GDS Academy User Research training - John Waterworth [Läs mer om Google Drive – en plats för alla dina filer](https://drive.google.com/file/d/1TbvyrsBb0-6W9r9FoQGlge3bhS924eQK/view?usp=sharing)
-* Hall Test: [Hall Tests | Market Research Glossary](https://www.abaresearch.co.uk/hall-tests)
+* Hall Test: [Hall Tests; Market Research Glossary](https://www.abaresearch.co.uk/hall-tests)
 * Paper studios research patterns [The Paper user research pattern library - Paper](https://paper.studio/2021/12/07/the-paper-user-research-pattern-library/)
 * Card sorting https://www.effortmark.co.uk/streamline-your-card-sorts/
-* Survey design - open-ended questions [Pitfalls of survey design: Too many open-ended responses | by Stacie Sheldon | Bootcamp](https://bootcamp.uxdesign.cc/pitfalls-of-survey-design-too-many-open-ended-responses-a18ad923ee6f)	
-* The importance of quantitative methods [Young UX researchers: overcome your fear of numbers to stay relevant | by Konstantin Escher | UX Collective](https://uxdesign.cc/young-ux-researchers-overcome-your-fear-of-numbers-and-learn-statistics-to-stay-relevant-ff829d4f0aa1)
+* Survey design - open-ended questions [Pitfalls of survey design: Too many open-ended responses; by Stacie Sheldon; Bootcamp](https://bootcamp.uxdesign.cc/pitfalls-of-survey-design-too-many-open-ended-responses-a18ad923ee6f)	
+* The importance of quantitative methods [Young UX researchers: overcome your fear of numbers to stay relevant; by Konstantin Escher; UX Collective](https://uxdesign.cc/young-ux-researchers-overcome-your-fear-of-numbers-and-learn-statistics-to-stay-relevant-ff829d4f0aa1)
 * Critical Incident Technique [Critical Incident Technique - Wikipedia](https://en.wikipedia.org/wiki/Critical_Incident_Technique)
 * Research Heresies - Will Myddleton [Research heresies — Myddelton](https://www.myddelton.co.uk/blog/research-heresies)
 * Discussion guides - User Interviews [Consent Forms for UX Research](https://www.userinterviews.com/blog/how-to-write-research-participant-consent-forms)
 
 #### Define // Discovery II // Synthesis, Analysis & Communication
 * Jobs to be done: https://strategyn.com/customer-centered-innovation-map/
-* Rainbow synthesis [The rainbow sheet: a visual method for research analysis | by Zoraida Cabrera-Mieles | UX Collective](https://uxdesign.cc/the-rainbow-sheet-a-visual-method-for-research-analysis-a7e7d2011058)	
-* User research analysis at Heritage Fund [How we do user research analysis at the Heritage Fund | by Jo Arthur | Doing Service Design at the National Lottery Heritage Fund | Medium](https://medium.com/doing-service-design-at-the-national-lottery/how-we-do-user-research-analysis-at-the-heritage-fund-2ed67bc45720)
-* Ecosystem entity portrait [Evolving User Research in the Age of Platforms & Ecosystems | by Simone Cicero | Stories of Platform Design](https://stories.platformdesigntoolkit.com/evolving-user-research-into-the-age-of-platforms-ecosystems-9ca549f81d76)
+* Rainbow synthesis [The rainbow sheet: a visual method for research analysis; by Zoraida Cabrera-Mieles; UX Collective](https://uxdesign.cc/the-rainbow-sheet-a-visual-method-for-research-analysis-a7e7d2011058)	
+* User research analysis at Heritage Fund [How we do user research analysis at the Heritage Fund; by Jo Arthur; Doing Service Design at the National Lottery Heritage Fund; Medium](https://medium.com/doing-service-design-at-the-national-lottery/how-we-do-user-research-analysis-at-the-heritage-fund-2ed67bc45720)
+* Ecosystem entity portrait [Evolving User Research in the Age of Platforms & Ecosystems; by Simone Cicero; Stories of Platform Design](https://stories.platformdesigntoolkit.com/evolving-user-research-into-the-age-of-platforms-ecosystems-9ca549f81d76)
 * Full stack service design [Full Stack Service Design – Sarah Drummond](http://sarah-drummond.com/full-stack-service-design/)
 * Tips on presenting user research findings - John Waterworth [Tips for presenting user research at show and tell - User research in government](https://userresearch.blog.gov.uk/2015/06/03/tips-for-presenting-user-research-at-show-and-tell/)
 * Service Blueprints [Using service blueprinting as a team to get unstuck - Paper](https://paper.studio/2022/10/05/service-blueprinting-article/)
@@ -79,14 +79,14 @@ Lots of ex-UK government folks went and set up a digital department at coop so t
 * User Story Mapping 
   * Jeff Patton [Story Mapping Slides – Help your organization focus on successful outcomes](https://www.jpattonassociates.com/storymappingslides/)
   * Jeff Patton quick guide pdf http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
-  * Part I [Story Mapping — Part 1. UX Knowledge Base Sketch #70 | by Krisztina Szerovay | UX Knowledge Base Sketch](https://uxknowledgebase.com/story-mapping-part-1-e65b0b74591) 
-  * Part II [Story Mapping — Part 2. UX Knowledge Base Sketch #71 | by Krisztina Szerovay | UX Knowledge Base Sketch](https://uxknowledgebase.com/story-mapping-part-2-3b0e9e0cf2ef)
+  * Part I [Story Mapping — Part 1. UX Knowledge Base Sketch #70; by Krisztina Szerovay; UX Knowledge Base Sketch](https://uxknowledgebase.com/story-mapping-part-1-e65b0b74591) 
+  * Part II [Story Mapping — Part 2. UX Knowledge Base Sketch #71; by Krisztina Szerovay; UX Knowledge Base Sketch](https://uxknowledgebase.com/story-mapping-part-2-3b0e9e0cf2ef)
 * Effectiveness > Efficiency: https://userresearch.blog.gov.uk/2017/04/18/why-we-care-more-about-effectiveness-than-efficiency-or-satisfaction/
 * Prototyping a digital from on paper https://www.effortmark.co.uk/how-to-prototype-a-digital-form-on-paper/
-* Stockholm parents develop their own platform [These Parents Built a School App. Then the City Called the Cops | WIRED](https://www.wired.com/story/sweden-stockholm-school-app-open-source/)
+* Stockholm parents develop their own platform [These Parents Built a School App. Then the City Called the Cops; WIRED](https://www.wired.com/story/sweden-stockholm-school-app-open-source/)
 * Designing comparative evaluations https://www.effortmark.co.uk/designing-comparative-evaluations/
 * Prototyping for dummies: Very UK Gov focused [Prototyping for dummies - Speaker Deck](https://speakerdeck.com/stephengill/prototyping-for-dummies?slide=32)
-* Measuring user experiences -  Effectiveness / Efficiency / Satisfaction [Measuring user experiences — an interview with Toby Yakubu-Sam | by Wendy Ingram | BT’s Design Team | Medium](https://medium.com/bts-design-team/measuring-user-experiences-an-interview-with-toby-yakubu-sam-e722f4f91810)
+* Measuring user experiences -  Effectiveness / Efficiency / Satisfaction [Measuring user experiences — an interview with Toby Yakubu-Sam; by Wendy Ingram; BT’s Design Team; Medium](https://medium.com/bts-design-team/measuring-user-experiences-an-interview-with-toby-yakubu-sam-e722f4f91810)
 * Using hypotheses - John Waterworth: [Interaction 20 talk - Using hypotheses to hold together your learning…](https://www.slideshare.net/dxwdigital/interaction-20-talk-using-hypotheses-to-hold-together-your-learning-thinking-and-making/2)
 
 #### Deliver // Beta // Build, Release, Maintain & Improve
@@ -129,20 +129,20 @@ The anti-problems [The Anti-Problem - Gamestorming](https://gamestorming.com/the
 ## UI and Design 
 ### Methods
 * Animation https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
-* Personalisation [Artwork Personalization at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
+* Personalisation [Artwork Personalization at Netflix; by Netflix Technology Blog; Netflix TechBlog](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
 * Nuuday https://1508.design/nuuday-logo/
-* Apple Human Interface Design [10 Insights from Apple’s Human Interface Design Guidelines | by Danny Sapio | UX Collective](https://uxdesign.cc/10-insights-from-apples-human-interface-design-guidelines-176ab7d505ae)
+* Apple Human Interface Design [10 Insights from Apple’s Human Interface Design Guidelines; by Danny Sapio; UX Collective](https://uxdesign.cc/10-insights-from-apples-human-interface-design-guidelines-176ab7d505ae)
 * Dark ages of the web: https://pavellaptev.github.io/web-dark-ages/
 * UX of lego interface panels [The UX of LEGO Interface Panels – George Cave](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 * Prioritising quality over speed in design systems https://amyhupe.co.uk/articles/design-systems-quality-over-speed/
-* Complement and Network effects [cdixon | Non-linearity of technology adoption](https://cdixon.org/2009/09/10/non-linearity-of-technology-adoption)
+* Complement and Network effects [cdixon; Non-linearity of technology adoption](https://cdixon.org/2009/09/10/non-linearity-of-technology-adoption)
 * Three things product teams need from designers https://apolitical.co/solution-articles/en/three-things-product-teams-need-from-designers
 * NN Testing visual design [How to Test Visual Design](https://www.nngroup.com/articles/testing-visual-design/)
 * Onboarding paywall design [How To Increase Trial Conversions by 23% (Ethically)](https://growth.design/case-studies/trial-paywall-challenge?activecampaign_id=martin%40e-types.com)
 * Questions:
   * Question Protocol - Caroline Jarrett: [The Question Protocol: How to Make Sure Every Form Field Is Necessary :: UXmatters](https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php)
   * GDS Design System Question design [Question pages – GOV.UK Design System](https://design-system.service.gov.uk/patterns/question-pages/)
-  * US Health Care [Structuring a complex eligibility form for HealthCare.gov | by Sawyer Hollenshead | Nava PBC](https://blog.navapbc.com/structuring-a-complex-eligibility-form-for-healthcare-gov-37d79a5ad6)
+  * US Health Care [Structuring a complex eligibility form for HealthCare.gov; by Sawyer Hollenshead; Nava PBC](https://blog.navapbc.com/structuring-a-complex-eligibility-form-for-healthcare-gov-37d79a5ad6)
 * Air BnB [Airbnb Design – A behind-the-scenes look at our design culture, process, learnings, and storytelling. Inspired by work, travel, and the creatives we serendipitously meet along the way.](https://airbnb.design/)
 
 ## Inspiration
@@ -168,10 +168,10 @@ The anti-problems [The Anti-Problem - Gamestorming](https://gamestorming.com/the
 * Decathlon https://www.decathlon.design/726f8c765/p/71b8e3-decathlon-design-system
 * Co-op [design system – Co-op Digital Blog](https://digitalblog.coop.co.uk/tag/design-system/)
 * Shopify Polaris [Shopify Polaris](https://polaris.shopify.com/)
-* Mailchimp [Color | Mailchimp](https://ux.mailchimp.com/patterns/color)
+* Mailchimp [Color; Mailchimp](https://ux.mailchimp.com/patterns/color)
 * Audi [UI Introduction](https://www.audi.com/ci/en/guides/user-interface/introduction.html)
 * Salesforce [Lightning Design System](https://www.lightningdesignsystem.com/)
-* Workbench [Welcome | Workbench by Gusto](https://workbench.gusto.com/)
+* Workbench [Welcome; Workbench by Gusto](https://workbench.gusto.com/)
 
 
 
