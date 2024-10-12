@@ -52,8 +52,9 @@ Permalink: /books
     /* customize your rating stars here */
     float: right;
   }
-</style>
 
+</style>
+{% raw %}
       <div id="gr_custom_widget_1728760579">
           <div class="gr_custom_container_1728760579">
     <h2 class="gr_custom_header_1728760579">
@@ -143,4 +144,5 @@ Permalink: /books
   </div>
 
       </div>
+      {% raw %}
       <script src="https://www.goodreads.com/review/custom_widget/30801785.Duncan's%20bookshelf:%20read?cover_position=left&cover_size=small&num_books=5&order=d&shelf=read&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_read&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1728760579&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
