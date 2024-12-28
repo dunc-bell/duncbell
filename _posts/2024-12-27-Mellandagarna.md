@@ -2,7 +2,7 @@
 layout: post
 title:  "Mellandagarna"
 ---
-We took A to Saluhallen to eat falafel and chips. He was an expert dipper. Definitely not his first time. Amusing to watch him dip into the mustard instead of the ketchup. It definitely caught him by surprise. He still seemed under the weather but enjoyed climbing on the crazy bear, goose, boar, snake dear statue in the park. 
+We took A to Saluhallen to eat falafel and chips. He was an expert dipper. Definitely not his first time. Amusing to watch him dip into the mustard instead of the ketchup. It definitely caught him by surprise. He still seemed under the weather but enjoyed climbing on the crazy bear, goose, boar, snake, deer statue in the park. 
 
 Finished *Headshot* by Rita Bullwinkel. It’s great. Such power and clarity. I’m not good at articulating what I like in a book but this really hooked me. 
 
