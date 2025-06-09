@@ -1,0 +1,24 @@
+name: Deploy to Porkbun Hosting
+
+on:
+  push:
+    branches:
+      - main  # or your deployment branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Upload via SFTP
+      uses: pressidium/lftp-mirror-action@v1
+      with:
+        host: ${{ secrets.SFTP_HOST }}
+        port: ${{ secrets.SFTP_PORT }}
+        user: ${{ secrets.SFTP_USER }}
+        password: ${{ secrets.SFTP_PASS }}
+        localDir: './'  # or your build directory
+        remoteDir: '/public_html'  # adjust if needed
