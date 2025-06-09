@@ -1,24 +1,35 @@
-name: Deploy to Porkbun Hosting
+name: Build and Deploy Jekyll Blog to Porkbun
 
 on:
   push:
     branches:
-      - main  # or your deployment branch
+      - main  # or whichever branch you use for production
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Upload via SFTP
-      uses: pressidium/lftp-mirror-action@v1
-      with:
-        host: ${{ secrets.SFTP_HOST }}
-        port: ${{ secrets.SFTP_PORT }}
-        user: ${{ secrets.SFTP_USER }}
-        password: ${{ secrets.SFTP_PASS }}
-        localDir: './'  # or your build directory
-        remoteDir: '/public_html'  # adjust if needed
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'  # Adjust if needed
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build the Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Upload to Porkbun via SFTP
+        uses: pressidium/lftp-mirror-action@v1
+        with:
+          host: ${{ secrets.SFTP_HOST }}
+          port: ${{ secrets.SFTP_PORT }}
+          user: ${{ secrets.SFTP_USER }}
+          password: ${{ secrets.SFTP_PASS }}
+          localDir: './_site'
+          remoteDir: '/public_html'  # Confirm with Porkbun if this is the correct web root directory
