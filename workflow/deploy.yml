@@ -1,0 +1,36 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main # Trigger the workflow on pushes to the 'main' branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Action to check out your repository code
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.x' # Use a recent Ruby version compatible with Jekyll
+          bundler-cache: true # Install dependencies with Bundler
+
+      - name: Install Jekyll dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --destination _site # Build Jekyll site into _site directory
+
+      - name: Deploy to GitHub Pages (or target branch for Porkbun)
+        uses: peaceiris/actions-gh-pages@v4 # This action handles committing the _site folder
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Default token provided by GitHub Actions
+          publish_dir: _site # Specify the directory to publish (your Jekyll build output)
+          publish_branch: main # The branch where you want to push the *built* site
+          force_orphan: false # Set to true if you want to completely overwrite the branch history (use with caution)
+          user_name: 'github-actions[bot]' # Recommended for GitHub Actions commits
+          user_email: 'github-actions[bot]@users.noreply.github.com' # Recommended for GitHub Actions commits
