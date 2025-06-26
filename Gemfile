@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-
+gem "minima"
 # If you have any other Jekyll plugins, add them here.
 # For example:
 # gem "jekyll-feed"
