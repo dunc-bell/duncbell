@@ -30,7 +30,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }} # Default token provided by GitHub Actions
           publish_dir: _site # Specify the directory to publish (your Jekyll build output)
-          publish_branch: main # The branch where you want to push the *built* site
+          publish_branch: gh-pages # The branch where you want to push the *built* site
           force_orphan: false # Set to true if you want to completely overwrite the branch history (use with caution)
           user_name: 'github-actions[bot]' # Recommended for GitHub Actions commits
           user_email: 'github-actions[bot]@users.noreply.github.com' # Recommended for GitHub Actions commits
